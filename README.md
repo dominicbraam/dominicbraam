@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+- final year CS student
+- self-hosting enthusiast
+- new to contributing to open source
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
