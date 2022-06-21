@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   
 [![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)
   
+<img src="https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true">
+  
 </p>
 
 <p align="center">
