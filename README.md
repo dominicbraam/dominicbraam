@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - self-hosting enthusiast
 - new to contributing to open source
 
-[![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
 [![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)
+</p>
