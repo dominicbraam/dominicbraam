@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
