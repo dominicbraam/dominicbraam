@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-[![dominicbraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)](https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true" alt="dominicbraam-gh-stats">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark" alt="dominicbraam-gh-langs">
   
 </p>
