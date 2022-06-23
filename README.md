@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - self-hosting enthusiast
 - new to contributing to open source
 
-<p align="center">
-  
+<p align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true" alt="dominicbraam-gh-stats">
-  
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark" alt="dominicbraam-gh-langs">
-  
 </p>
