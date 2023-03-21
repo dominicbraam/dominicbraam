@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- final year CS student
+- junior software engineer
 - self-hosting enthusiast
 - new to contributing to open source
 
