@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- software engineer
+- software engineer/ data scientist
 - self-hosting enthusiast
-- budding data scientist
-
 <!--
 <p align="center">  
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dominicbraam&theme=onedark&count_private=true" alt="dominicbraam-gh-stats">
