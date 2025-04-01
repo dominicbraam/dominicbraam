@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dominicbraam&layout=compact&theme=onedark" alt="dominicbraam-gh-langs">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dominicbraam&hide=jupyter%20notebook&layout=compact&theme=onedark" alt="dominicbraam-gh-langs">
 </p>
